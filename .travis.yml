@@ -1,0 +1,6 @@
+sudo: false
+language: python
+cache: bundler
+script:
+  - bundle exec rubocop -f fuubar
+  - bundle exec foodcritic -f any cookbooks
