@@ -2,8 +2,6 @@
 
 This repository contains a Python script (Jupyter notebook) implementing extraction of OpenStreetMap data with Spark.
 
-Data Analytics with Spark.Some feature of OpenStreetMap explored.
-
 ![Alt text](images/taxilocation.png)
 ## Getting Started
 
