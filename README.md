@@ -1,7 +1,10 @@
-# OpeenStreetMap Data Analytics
+# OpenStreetMap Data Analytics
 
-Data Analytics with Spark.Some features explored.
+This repository contains a Python script (Jupyter notebook) implementing extraction of OpenStreetMap data with Spark.
 
+Data Analytics with Spark.Some feature of OpenStreetMap explored.
+
+![Alt text](images/taxilocation.png)
 ## Getting Started
 
 ```
@@ -14,6 +17,7 @@ We need convert the data set to Spark friendly format
 Suggested tool: https://github.com/adrianulbona/osm-parquetizer
 
 Also you need data,you can install it with related link ;
+
 ```
 mkdir Data
 cd Data
@@ -30,6 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Data explore for only Hungary
 
 ## toDoList
-    - .sh file 
-    - Multicountry Data Analytics (Default Hungary)
-    - SparkML with Data
+- .sh file 
+- Multicountry Data Analytics (For now default Hungary)
+- SparkML with Data
