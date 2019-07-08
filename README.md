@@ -34,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## toDoList
 - .sh file 
 - Multicountry Data Analytics (For now default Hungary)
-- SparkML with Data
+- SparkML Data Analytics
