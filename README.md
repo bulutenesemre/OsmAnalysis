@@ -30,6 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Data explore for only Hungary
+* For render problem of jupyter file use ; https://nbviewer.jupyter.org 
 
 ## toDoList
 - .sh file 
